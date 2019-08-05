@@ -40,5 +40,5 @@ This app is a way to find out info about:
 
 
 
-## Link to updated Portfolio project that has this link added: https://jeffa777.github.io/Updated-Portfolio/
+## Link to updated Portfolio project that has this link added: https://jeffa777.github.io/Portfolio/
 
